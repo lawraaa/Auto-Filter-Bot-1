@@ -6,11 +6,11 @@
         "Auto",
         "Filter",
         "Telegram Bot",
-        "TroJanzHEX"
+        "Moviehouse"
     ],
-    "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/TroJanzHEX/Auto-Filter-Bot",
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "website": "https://Moviehouse.me",
+    "repository": "https://github.com/lawraaa/Auto-Filter-Bot",
+    "success_url": "https://telegram.dog/jamesbond",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
