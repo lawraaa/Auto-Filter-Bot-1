@@ -76,6 +76,6 @@ python3 main.py
 
 ## Credits
 
-[![TroJanz](https://img.shields.io/badge/Pyrogram%20-%23F37626.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/pyrogram/pyrogram)
+(https://img.shields.io/badge/Pyrogram%20-%23F37626.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/pyrogram/pyrogram)
 
 And as always, [SpEcHlDe](https://telegram.dog/SpEcHlDe)
